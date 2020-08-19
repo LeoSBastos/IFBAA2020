@@ -2,14 +2,14 @@ from random import sample
 from random import seed
 
 
-def quickSort(lista):
+def quickSort(lista, indicePivo = 0):
     menos = []
     listaPivos = []
     mais = []
     if len(lista) <= 1:
         return lista
     else:
-        pivo = lista[0]
+        pivo = lista[indicePivo]
         for i in lista:
             if i < pivo:
                 menos.append(i)
