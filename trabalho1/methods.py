@@ -28,3 +28,12 @@ def popularEntradas(ind):
     for i in range(ind):
         entradas.append(sample(range(-1000000, 1000000), 10 ** (i+1)))
     return entradas
+
+
+def readFile(filePath):
+    with open(filePath, 'r') as file:
+        stringArr = file.read().split(';')
+        arr = []
+        for a in stringArr:
+            arr.append(list(map(int, a.split(','))))
+    return arr
