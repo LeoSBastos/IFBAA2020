@@ -1,15 +1,21 @@
 from random import sample
 from random import seed
+import resource, sys
 
+resource.setrlimit(resource.RLIMIT_STACK, (2**29,-1))
+sys.setrecursionlimit(10**6)
 
-def quickSort(lista, indicePivo = 0):
+def quickSort(lista, melhorCaso = False):
     menos = []
     listaPivos = []
     mais = []
     if len(lista) <= 1:
         return lista
     else:
-        pivo = lista[indicePivo]
+        if melhorCaso:
+            pivo = lista[len(lista)//2]
+        else:
+            pivo = lista[0]
         for i in lista:
             if i < pivo:
                 menos.append(i)
@@ -17,23 +23,20 @@ def quickSort(lista, indicePivo = 0):
                 mais.append(i)
             else:
                 listaPivos.append(i)
-        menos = quickSort(menos)
-        mais = quickSort(mais)
+        menos = quickSort(menos, melhorCaso)
+        mais = quickSort(mais, melhorCaso)
         return menos + listaPivos + mais
 
 
-def popularEntradas(ind):
+def popularEntradasAleatorias(ind):
     seed("1")
     entradas = []
     for i in range(ind):
         entradas.append(sample(range(-1000000, 1000000), 10 ** (i+1)))
     return entradas
 
-
-def readFile(filePath):
-    with open(filePath, 'r') as file:
-        stringArr = file.read().split(';')
-        arr = []
-        for a in stringArr:
-            arr.append(list(map(int, a.split(','))))
-    return arr
+def popularEntradasCasos(ind):
+    entradas = []
+    for i in range(ind):
+        entradas.append([x for x in range(10 ** (i+1))])
+    return entradas
