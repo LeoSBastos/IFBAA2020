@@ -9,11 +9,11 @@ if __name__ == "__main__":
         start_time = time.time()
         casoAleatorio[i] = methods.quickSort(casoAleatorio[i])
         print("---Caso Aleatório[{}]: {:.4f} seconds ---".format(i+1,(time.time() - start_time)))
-    start_time = time.time()   
-    for i in range(len(piorCaso)):
-        piorCaso[i] = methods.quickSort(piorCaso[i])
-    print("---Pior Caso[{}]: ${:.4f} seconds ---" % (i+1,time.time() - start_time))
-    start_time = time.time()   
     for i in range(len(melhorCaso)):
+        start_time = time.time()   
         melhorCaso[i] = methods.quickSort(melhorCaso[i], True)
-    print("---Melhor Caso[{}]: ${:.4f} seconds ---" % (i+1,time.time() - start_time))
+        print("---Melhor Caso[{}]: ${:.4f} seconds ---".format(i+1,time.time() - start_time))
+    for i in range(len(piorCaso)):
+        start_time = time.time()   
+        piorCaso[i] = methods.quickSort(piorCaso)
+        print("---Pior Caso[{}]: {:.4f} seconds ---".format(5,(time.time() - start_time)))
