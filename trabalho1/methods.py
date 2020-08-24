@@ -1,8 +1,7 @@
 from random import sample
 from random import seed
-import resource, sys
+import sys
 
-resource.setrlimit(resource.RLIMIT_STACK, (2**29,-1))
 sys.setrecursionlimit(10**6)
 
 def quickSort(lista, melhorCaso = False):
