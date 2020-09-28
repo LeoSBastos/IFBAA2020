@@ -1,0 +1,4 @@
+---Pior Caso[1]: 0.0000 seconds ---
+---Pior Caso[2]: 0.0004 seconds ---
+---Pior Caso[3]: 0.0290 seconds ---
+---Pior Caso[4]: 3.1939 seconds ---

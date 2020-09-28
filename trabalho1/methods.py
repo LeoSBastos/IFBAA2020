@@ -22,9 +22,7 @@ def quickSort(lista, melhorCaso = False):
                 mais.append(i)
             else:
                 listaPivos.append(i)
-        menos = quickSort(menos, melhorCaso)
-        mais = quickSort(mais, melhorCaso)
-        return menos + listaPivos + mais
+        return quickSort(menos, melhorCaso) + listaPivos + quickSort(mais, melhorCaso)
 
 
 def popularEntradasAleatorias(ind):
