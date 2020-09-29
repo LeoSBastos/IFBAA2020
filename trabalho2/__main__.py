@@ -5,6 +5,8 @@ if __name__ == "__main__":
     data = file.read()
     for chunk in data:
         knap = Knapsack(chunk)
+        knap.allLights()
+        knap.costBenefit()
+        print(knap.lightIndexes)
+        print(knap.costBenefitIndexes)
         break
-    knap.allLights()
-    print(knap.lightIndexes)
