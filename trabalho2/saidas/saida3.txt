@@ -1,500 +1,500 @@
 Teste de caso número 1
-Valor dos menores pesos e seu tempo: 52695 (0.0039403438568115234)
-Valor dos melhores custo-benefícios e seu tempo: 52695 (0.0042264461517333984)
-Valor do algoritmo dinâmico e seu tempo: 53000 (2.321296215057373)
+Valor dos menores pesos e seu tempo: 52695 (0.00393366813659668)
+Valor dos melhores custo-benefícios e seu tempo: 52695 (0.004296302795410156)
+Valor do algoritmo dinâmico e seu tempo: 53000 (2.3879594802856445)
 ----------
 Teste de caso número 2
-Valor dos menores pesos e seu tempo: 54911 (0.005600452423095703)
-Valor dos melhores custo-benefícios e seu tempo: 54911 (0.0044307708740234375)
-Valor do algoritmo dinâmico e seu tempo: 55000 (2.3534021377563477)
+Valor dos menores pesos e seu tempo: 54911 (0.003759145736694336)
+Valor dos melhores custo-benefícios e seu tempo: 54911 (0.003841876983642578)
+Valor do algoritmo dinâmico e seu tempo: 55000 (2.3664488792419434)
 ----------
 Teste de caso número 3
-Valor dos menores pesos e seu tempo: 59906 (0.003801584243774414)
-Valor dos melhores custo-benefícios e seu tempo: 59906 (0.003742694854736328)
-Valor do algoritmo dinâmico e seu tempo: 60000 (2.3295154571533203)
+Valor dos menores pesos e seu tempo: 59906 (0.0036759376525878906)
+Valor dos melhores custo-benefícios e seu tempo: 59906 (0.0037870407104492188)
+Valor do algoritmo dinâmico e seu tempo: 60000 (2.335045337677002)
 ----------
 Teste de caso número 4
-Valor dos menores pesos e seu tempo: 59576 (0.003668546676635742)
-Valor dos melhores custo-benefícios e seu tempo: 59576 (0.0037016868591308594)
-Valor do algoritmo dinâmico e seu tempo: 60000 (2.348214864730835)
+Valor dos menores pesos e seu tempo: 59576 (0.003711223602294922)
+Valor dos melhores custo-benefícios e seu tempo: 59576 (0.0036449432373046875)
+Valor do algoritmo dinâmico e seu tempo: 60000 (2.3227829933166504)
 ----------
 Teste de caso número 5
-Valor dos menores pesos e seu tempo: 57780 (0.004084587097167969)
-Valor dos melhores custo-benefícios e seu tempo: 57780 (0.003942012786865234)
-Valor do algoritmo dinâmico e seu tempo: 58000 (2.3434290885925293)
+Valor dos menores pesos e seu tempo: 57780 (0.0038466453552246094)
+Valor dos melhores custo-benefícios e seu tempo: 57780 (0.003712177276611328)
+Valor do algoritmo dinâmico e seu tempo: 58000 (2.35422682762146)
 ----------
 Teste de caso número 6
-Valor dos menores pesos e seu tempo: 50697 (0.003969430923461914)
-Valor dos melhores custo-benefícios e seu tempo: 50697 (0.003783702850341797)
-Valor do algoritmo dinâmico e seu tempo: 51000 (3.133629083633423)
+Valor dos menores pesos e seu tempo: 50697 (0.0037789344787597656)
+Valor dos melhores custo-benefícios e seu tempo: 50697 (0.003762483596801758)
+Valor do algoritmo dinâmico e seu tempo: 51000 (2.3383214473724365)
 ----------
 Teste de caso número 7
-Valor dos menores pesos e seu tempo: 58597 (0.0037970542907714844)
-Valor dos melhores custo-benefícios e seu tempo: 58597 (0.004160881042480469)
-Valor do algoritmo dinâmico e seu tempo: 59000 (2.363919973373413)
+Valor dos menores pesos e seu tempo: 58597 (0.0037899017333984375)
+Valor dos melhores custo-benefícios e seu tempo: 58597 (0.0038771629333496094)
+Valor do algoritmo dinâmico e seu tempo: 59000 (2.33577823638916)
 ----------
 Teste de caso número 8
-Valor dos menores pesos e seu tempo: 56822 (0.003871440887451172)
-Valor dos melhores custo-benefícios e seu tempo: 56822 (0.003945350646972656)
-Valor do algoritmo dinâmico e seu tempo: 57000 (2.360868215560913)
+Valor dos menores pesos e seu tempo: 56822 (0.0036869049072265625)
+Valor dos melhores custo-benefícios e seu tempo: 56822 (0.0037603378295898438)
+Valor do algoritmo dinâmico e seu tempo: 57000 (2.3804256916046143)
 ----------
 Teste de caso número 9
-Valor dos menores pesos e seu tempo: 48708 (0.004063844680786133)
-Valor dos melhores custo-benefícios e seu tempo: 48708 (0.003815889358520508)
-Valor do algoritmo dinâmico e seu tempo: 49000 (2.3349013328552246)
+Valor dos menores pesos e seu tempo: 48708 (0.0037293434143066406)
+Valor dos melhores custo-benefícios e seu tempo: 48708 (0.003645181655883789)
+Valor do algoritmo dinâmico e seu tempo: 49000 (2.341963052749634)
 ----------
 Teste de caso número 10
-Valor dos menores pesos e seu tempo: 55908 (0.0038650035858154297)
-Valor dos melhores custo-benefícios e seu tempo: 55908 (0.0044231414794921875)
-Valor do algoritmo dinâmico e seu tempo: 56000 (2.3437702655792236)
+Valor dos menores pesos e seu tempo: 55908 (0.0038976669311523438)
+Valor dos melhores custo-benefícios e seu tempo: 55908 (0.0037946701049804688)
+Valor do algoritmo dinâmico e seu tempo: 56000 (2.356292486190796)
 ----------
 Teste de caso número 11
-Valor dos menores pesos e seu tempo: 53783 (0.0038077831268310547)
-Valor dos melhores custo-benefícios e seu tempo: 53783 (0.0036470890045166016)
-Valor do algoritmo dinâmico e seu tempo: 54000 (2.319826364517212)
+Valor dos menores pesos e seu tempo: 53783 (0.0038022994995117188)
+Valor dos melhores custo-benefícios e seu tempo: 53783 (0.0038292407989501953)
+Valor do algoritmo dinâmico e seu tempo: 54000 (2.354717493057251)
 ----------
 Teste de caso número 12
-Valor dos menores pesos e seu tempo: 57709 (0.0041675567626953125)
-Valor dos melhores custo-benefícios e seu tempo: 57709 (0.003780364990234375)
-Valor do algoritmo dinâmico e seu tempo: 58000 (2.3124263286590576)
+Valor dos menores pesos e seu tempo: 57709 (0.003701925277709961)
+Valor dos melhores custo-benefícios e seu tempo: 57709 (0.0036973953247070312)
+Valor do algoritmo dinâmico e seu tempo: 58000 (2.3710033893585205)
 ----------
 Teste de caso número 13
-Valor dos menores pesos e seu tempo: 54820 (0.003721952438354492)
-Valor dos melhores custo-benefícios e seu tempo: 54820 (0.003770589828491211)
-Valor do algoritmo dinâmico e seu tempo: 55000 (2.347700357437134)
+Valor dos menores pesos e seu tempo: 54820 (0.003759622573852539)
+Valor dos melhores custo-benefícios e seu tempo: 54820 (0.0037631988525390625)
+Valor do algoritmo dinâmico e seu tempo: 55000 (2.363703966140747)
 ----------
 Teste de caso número 14
-Valor dos menores pesos e seu tempo: 50604 (0.0037910938262939453)
-Valor dos melhores custo-benefícios e seu tempo: 50604 (0.0038890838623046875)
-Valor do algoritmo dinâmico e seu tempo: 51000 (2.3019604682922363)
+Valor dos menores pesos e seu tempo: 50604 (0.0037093162536621094)
+Valor dos melhores custo-benefícios e seu tempo: 50604 (0.003741025924682617)
+Valor do algoritmo dinâmico e seu tempo: 51000 (2.3372509479522705)
 ----------
 Teste de caso número 15
-Valor dos menores pesos e seu tempo: 57719 (0.00386810302734375)
-Valor dos melhores custo-benefícios e seu tempo: 57719 (0.003719806671142578)
-Valor do algoritmo dinâmico e seu tempo: 58000 (2.353137731552124)
+Valor dos menores pesos e seu tempo: 57719 (0.003724813461303711)
+Valor dos melhores custo-benefícios e seu tempo: 57719 (0.003635883331298828)
+Valor do algoritmo dinâmico e seu tempo: 58000 (2.378114938735962)
 ----------
 Teste de caso número 16
-Valor dos menores pesos e seu tempo: 55903 (0.0037186145782470703)
-Valor dos melhores custo-benefícios e seu tempo: 55903 (0.0037751197814941406)
-Valor do algoritmo dinâmico e seu tempo: 56000 (2.309278726577759)
+Valor dos menores pesos e seu tempo: 55903 (0.003737211227416992)
+Valor dos melhores custo-benefícios e seu tempo: 55903 (0.003701448440551758)
+Valor do algoritmo dinâmico e seu tempo: 56000 (2.3277103900909424)
 ----------
 Teste de caso número 17
-Valor dos menores pesos e seu tempo: 57621 (0.0039730072021484375)
-Valor dos melhores custo-benefícios e seu tempo: 57621 (0.003964424133300781)
-Valor do algoritmo dinâmico e seu tempo: 58000 (2.3489770889282227)
+Valor dos menores pesos e seu tempo: 57621 (0.0038537979125976562)
+Valor dos melhores custo-benefícios e seu tempo: 57621 (0.003808259963989258)
+Valor do algoritmo dinâmico e seu tempo: 58000 (2.3648533821105957)
 ----------
 Teste de caso número 18
-Valor dos menores pesos e seu tempo: 53653 (0.0037162303924560547)
-Valor dos melhores custo-benefícios e seu tempo: 53653 (0.0039174556732177734)
-Valor do algoritmo dinâmico e seu tempo: 54000 (2.3133654594421387)
+Valor dos menores pesos e seu tempo: 53653 (0.003860950469970703)
+Valor dos melhores custo-benefícios e seu tempo: 53653 (0.0037937164306640625)
+Valor do algoritmo dinâmico e seu tempo: 54000 (2.3297667503356934)
 ----------
 Teste de caso número 19
-Valor dos menores pesos e seu tempo: 49954 (0.004362821578979492)
-Valor dos melhores custo-benefícios e seu tempo: 49954 (0.003990650177001953)
-Valor do algoritmo dinâmico e seu tempo: 50000 (2.3087518215179443)
+Valor dos menores pesos e seu tempo: 49954 (0.003763914108276367)
+Valor dos melhores custo-benefícios e seu tempo: 49954 (0.003706216812133789)
+Valor do algoritmo dinâmico e seu tempo: 50000 (2.344907522201538)
 ----------
 Teste de caso número 20
-Valor dos menores pesos e seu tempo: 54628 (0.0037686824798583984)
-Valor dos melhores custo-benefícios e seu tempo: 54628 (0.0037386417388916016)
-Valor do algoritmo dinâmico e seu tempo: 55000 (2.289748191833496)
+Valor dos menores pesos e seu tempo: 54628 (0.0036699771881103516)
+Valor dos melhores custo-benefícios e seu tempo: 54628 (0.004074811935424805)
+Valor do algoritmo dinâmico e seu tempo: 55000 (2.3287808895111084)
 ----------
 Teste de caso número 21
-Valor dos menores pesos e seu tempo: 54699 (0.003703594207763672)
-Valor dos melhores custo-benefícios e seu tempo: 54699 (0.0039141178131103516)
-Valor do algoritmo dinâmico e seu tempo: 55000 (2.3015525341033936)
+Valor dos menores pesos e seu tempo: 54699 (0.0037174224853515625)
+Valor dos melhores custo-benefícios e seu tempo: 54699 (0.0045092105865478516)
+Valor do algoritmo dinâmico e seu tempo: 55000 (2.353519916534424)
 ----------
 Teste de caso número 22
-Valor dos menores pesos e seu tempo: 56765 (0.0037407875061035156)
-Valor dos melhores custo-benefícios e seu tempo: 56765 (0.003773927688598633)
-Valor do algoritmo dinâmico e seu tempo: 57000 (2.3050477504730225)
+Valor dos menores pesos e seu tempo: 56765 (0.003818035125732422)
+Valor dos melhores custo-benefícios e seu tempo: 56765 (0.0038535594940185547)
+Valor do algoritmo dinâmico e seu tempo: 57000 (2.3444020748138428)
 ----------
 Teste de caso número 23
-Valor dos menores pesos e seu tempo: 52916 (0.003705739974975586)
-Valor dos melhores custo-benefícios e seu tempo: 52916 (0.003937959671020508)
-Valor do algoritmo dinâmico e seu tempo: 52999 (2.300938367843628)
+Valor dos menores pesos e seu tempo: 52916 (0.0037937164306640625)
+Valor dos melhores custo-benefícios e seu tempo: 52916 (0.0037467479705810547)
+Valor do algoritmo dinâmico e seu tempo: 52999 (2.335731029510498)
 ----------
 Teste de caso número 24
-Valor dos menores pesos e seu tempo: 50764 (0.0037038326263427734)
-Valor dos melhores custo-benefícios e seu tempo: 50764 (0.003838062286376953)
-Valor do algoritmo dinâmico e seu tempo: 51000 (2.3255083560943604)
+Valor dos menores pesos e seu tempo: 50764 (0.003807544708251953)
+Valor dos melhores custo-benefícios e seu tempo: 50764 (0.0037343502044677734)
+Valor do algoritmo dinâmico e seu tempo: 51000 (2.355778455734253)
 ----------
 Teste de caso número 25
-Valor dos menores pesos e seu tempo: 51769 (0.003894805908203125)
-Valor dos melhores custo-benefícios e seu tempo: 51769 (0.003972291946411133)
-Valor do algoritmo dinâmico e seu tempo: 52000 (2.29829740524292)
+Valor dos menores pesos e seu tempo: 51769 (0.003811359405517578)
+Valor dos melhores custo-benefícios e seu tempo: 51769 (0.0044286251068115234)
+Valor do algoritmo dinâmico e seu tempo: 52000 (2.4152653217315674)
 ----------
 Teste de caso número 26
-Valor dos menores pesos e seu tempo: 51551 (0.003664731979370117)
-Valor dos melhores custo-benefícios e seu tempo: 51551 (0.003840923309326172)
-Valor do algoritmo dinâmico e seu tempo: 52000 (2.2684590816497803)
+Valor dos menores pesos e seu tempo: 51551 (0.003786325454711914)
+Valor dos melhores custo-benefícios e seu tempo: 51551 (0.003681659698486328)
+Valor do algoritmo dinâmico e seu tempo: 52000 (2.335022211074829)
 ----------
 Teste de caso número 27
-Valor dos menores pesos e seu tempo: 47888 (0.003851652145385742)
-Valor dos melhores custo-benefícios e seu tempo: 47888 (0.003757953643798828)
-Valor do algoritmo dinâmico e seu tempo: 48000 (2.601919651031494)
+Valor dos menores pesos e seu tempo: 47888 (0.0040454864501953125)
+Valor dos melhores custo-benefícios e seu tempo: 47888 (0.004740238189697266)
+Valor do algoritmo dinâmico e seu tempo: 48000 (2.3691890239715576)
 ----------
 Teste de caso número 28
-Valor dos menores pesos e seu tempo: 54808 (0.0039386749267578125)
-Valor dos melhores custo-benefícios e seu tempo: 54808 (0.004037141799926758)
-Valor do algoritmo dinâmico e seu tempo: 55000 (2.3242015838623047)
+Valor dos menores pesos e seu tempo: 54808 (0.003715991973876953)
+Valor dos melhores custo-benefícios e seu tempo: 54808 (0.0036706924438476562)
+Valor do algoritmo dinâmico e seu tempo: 55000 (2.368633508682251)
 ----------
 Teste de caso número 29
-Valor dos menores pesos e seu tempo: 54895 (0.0038526058197021484)
-Valor dos melhores custo-benefícios e seu tempo: 54895 (0.003699779510498047)
-Valor do algoritmo dinâmico e seu tempo: 55000 (2.3409006595611572)
+Valor dos menores pesos e seu tempo: 54895 (0.0037457942962646484)
+Valor dos melhores custo-benefícios e seu tempo: 54895 (0.003734588623046875)
+Valor do algoritmo dinâmico e seu tempo: 55000 (2.365539073944092)
 ----------
 Teste de caso número 30
-Valor dos menores pesos e seu tempo: 50649 (0.0037004947662353516)
-Valor dos melhores custo-benefícios e seu tempo: 50649 (0.0037467479705810547)
-Valor do algoritmo dinâmico e seu tempo: 51000 (2.298089027404785)
+Valor dos menores pesos e seu tempo: 50649 (0.0039331912994384766)
+Valor dos melhores custo-benefícios e seu tempo: 50649 (0.0039560794830322266)
+Valor do algoritmo dinâmico e seu tempo: 51000 (2.3439249992370605)
 ----------
 Teste de caso número 31
-Valor dos menores pesos e seu tempo: 56685 (0.003695249557495117)
-Valor dos melhores custo-benefícios e seu tempo: 56685 (0.0036537647247314453)
-Valor do algoritmo dinâmico e seu tempo: 57000 (2.3311848640441895)
+Valor dos menores pesos e seu tempo: 56685 (0.003758668899536133)
+Valor dos melhores custo-benefícios e seu tempo: 56685 (0.0036988258361816406)
+Valor do algoritmo dinâmico e seu tempo: 57000 (2.342050790786743)
 ----------
 Teste de caso número 32
-Valor dos menores pesos e seu tempo: 49626 (0.003702402114868164)
-Valor dos melhores custo-benefícios e seu tempo: 49626 (0.0038590431213378906)
-Valor do algoritmo dinâmico e seu tempo: 50000 (2.3537955284118652)
+Valor dos menores pesos e seu tempo: 49626 (0.003966569900512695)
+Valor dos melhores custo-benefícios e seu tempo: 49626 (0.0040667057037353516)
+Valor do algoritmo dinâmico e seu tempo: 50000 (2.3504881858825684)
 ----------
 Teste de caso número 33
-Valor dos menores pesos e seu tempo: 54943 (0.003695964813232422)
-Valor dos melhores custo-benefícios e seu tempo: 54943 (0.0037305355072021484)
-Valor do algoritmo dinâmico e seu tempo: 54999 (2.3218207359313965)
+Valor dos menores pesos e seu tempo: 54943 (0.003869295120239258)
+Valor dos melhores custo-benefícios e seu tempo: 54943 (0.003844738006591797)
+Valor do algoritmo dinâmico e seu tempo: 54999 (2.3451266288757324)
 ----------
 Teste de caso número 34
-Valor dos menores pesos e seu tempo: 54926 (0.003882884979248047)
-Valor dos melhores custo-benefícios e seu tempo: 54926 (0.0036690235137939453)
-Valor do algoritmo dinâmico e seu tempo: 55000 (2.3155040740966797)
+Valor dos menores pesos e seu tempo: 54926 (0.003668546676635742)
+Valor dos melhores custo-benefícios e seu tempo: 54926 (0.003650665283203125)
+Valor do algoritmo dinâmico e seu tempo: 55000 (2.3576173782348633)
 ----------
 Teste de caso número 35
-Valor dos menores pesos e seu tempo: 58581 (0.0037415027618408203)
-Valor dos melhores custo-benefícios e seu tempo: 58581 (0.0037305355072021484)
-Valor do algoritmo dinâmico e seu tempo: 59000 (2.3064537048339844)
+Valor dos menores pesos e seu tempo: 58581 (0.003912210464477539)
+Valor dos melhores custo-benefícios e seu tempo: 58581 (0.0044367313385009766)
+Valor do algoritmo dinâmico e seu tempo: 59000 (2.358687162399292)
 ----------
 Teste de caso número 36
-Valor dos menores pesos e seu tempo: 54847 (0.0037271976470947266)
-Valor dos melhores custo-benefícios e seu tempo: 54847 (0.0037679672241210938)
-Valor do algoritmo dinâmico e seu tempo: 55000 (2.3193647861480713)
+Valor dos menores pesos e seu tempo: 54847 (0.0038971900939941406)
+Valor dos melhores custo-benefícios e seu tempo: 54847 (0.0038192272186279297)
+Valor do algoritmo dinâmico e seu tempo: 55000 (2.376990795135498)
 ----------
 Teste de caso número 37
-Valor dos menores pesos e seu tempo: 49741 (0.003797769546508789)
-Valor dos melhores custo-benefícios e seu tempo: 49741 (0.00370025634765625)
-Valor do algoritmo dinâmico e seu tempo: 50000 (2.3485138416290283)
+Valor dos menores pesos e seu tempo: 49741 (0.0037758350372314453)
+Valor dos melhores custo-benefícios e seu tempo: 49741 (0.0038149356842041016)
+Valor do algoritmo dinâmico e seu tempo: 50000 (2.3857581615448)
 ----------
 Teste de caso número 38
-Valor dos menores pesos e seu tempo: 56920 (0.0038080215454101562)
-Valor dos melhores custo-benefícios e seu tempo: 56920 (0.004051685333251953)
-Valor do algoritmo dinâmico e seu tempo: 56985 (2.3142263889312744)
+Valor dos menores pesos e seu tempo: 56920 (0.003782510757446289)
+Valor dos melhores custo-benefícios e seu tempo: 56920 (0.0037636756896972656)
+Valor do algoritmo dinâmico e seu tempo: 56985 (2.3673133850097656)
 ----------
 Teste de caso número 39
-Valor dos menores pesos e seu tempo: 52562 (0.0038001537322998047)
-Valor dos melhores custo-benefícios e seu tempo: 52562 (0.004127025604248047)
-Valor do algoritmo dinâmico e seu tempo: 53000 (2.299100399017334)
+Valor dos menores pesos e seu tempo: 52562 (0.003756284713745117)
+Valor dos melhores custo-benefícios e seu tempo: 52562 (0.003855466842651367)
+Valor do algoritmo dinâmico e seu tempo: 53000 (2.3515007495880127)
 ----------
 Teste de caso número 40
-Valor dos menores pesos e seu tempo: 59760 (0.0038292407989501953)
-Valor dos melhores custo-benefícios e seu tempo: 59760 (0.0037500858306884766)
-Valor do algoritmo dinâmico e seu tempo: 60000 (2.307826042175293)
+Valor dos menores pesos e seu tempo: 59760 (0.004243373870849609)
+Valor dos melhores custo-benefícios e seu tempo: 59760 (0.0040912628173828125)
+Valor do algoritmo dinâmico e seu tempo: 60000 (2.3425023555755615)
 ----------
 Teste de caso número 41
-Valor dos menores pesos e seu tempo: 56871 (0.004174232482910156)
-Valor dos melhores custo-benefícios e seu tempo: 56871 (0.003949403762817383)
-Valor do algoritmo dinâmico e seu tempo: 57000 (2.296978235244751)
+Valor dos menores pesos e seu tempo: 56871 (0.003807544708251953)
+Valor dos melhores custo-benefícios e seu tempo: 56871 (0.003920078277587891)
+Valor do algoritmo dinâmico e seu tempo: 57000 (2.3344008922576904)
 ----------
 Teste de caso número 42
-Valor dos menores pesos e seu tempo: 48617 (0.0036721229553222656)
-Valor dos melhores custo-benefícios e seu tempo: 48617 (0.004167318344116211)
-Valor do algoritmo dinâmico e seu tempo: 49000 (2.907526731491089)
+Valor dos menores pesos e seu tempo: 48617 (0.0038013458251953125)
+Valor dos melhores custo-benefícios e seu tempo: 48617 (0.0038263797760009766)
+Valor do algoritmo dinâmico e seu tempo: 49000 (2.359544277191162)
 ----------
 Teste de caso número 43
-Valor dos menores pesos e seu tempo: 52773 (0.003719806671142578)
-Valor dos melhores custo-benefícios e seu tempo: 52773 (0.003822803497314453)
-Valor do algoritmo dinâmico e seu tempo: 53000 (2.3458054065704346)
+Valor dos menores pesos e seu tempo: 52773 (0.00407099723815918)
+Valor dos melhores custo-benefícios e seu tempo: 52773 (0.003968000411987305)
+Valor do algoritmo dinâmico e seu tempo: 53000 (2.346998453140259)
 ----------
 Teste de caso número 44
-Valor dos menores pesos e seu tempo: 55752 (0.0036513805389404297)
-Valor dos melhores custo-benefícios e seu tempo: 55752 (0.0037994384765625)
-Valor do algoritmo dinâmico e seu tempo: 56000 (2.34861159324646)
+Valor dos menores pesos e seu tempo: 55752 (0.003683328628540039)
+Valor dos melhores custo-benefícios e seu tempo: 55752 (0.003650665283203125)
+Valor do algoritmo dinâmico e seu tempo: 56000 (2.357213258743286)
 ----------
 Teste de caso número 45
-Valor dos menores pesos e seu tempo: 57787 (0.003787994384765625)
-Valor dos melhores custo-benefícios e seu tempo: 57787 (0.0037772655487060547)
-Valor do algoritmo dinâmico e seu tempo: 58000 (2.338080883026123)
+Valor dos menores pesos e seu tempo: 57787 (0.00372314453125)
+Valor dos melhores custo-benefícios e seu tempo: 57787 (0.0037212371826171875)
+Valor do algoritmo dinâmico e seu tempo: 58000 (2.3687474727630615)
 ----------
 Teste de caso número 46
-Valor dos menores pesos e seu tempo: 58813 (0.0036706924438476562)
-Valor dos melhores custo-benefícios e seu tempo: 58813 (0.003742694854736328)
-Valor do algoritmo dinâmico e seu tempo: 59000 (2.3429524898529053)
+Valor dos menores pesos e seu tempo: 58813 (0.003718137741088867)
+Valor dos melhores custo-benefícios e seu tempo: 58813 (0.0036301612854003906)
+Valor do algoritmo dinâmico e seu tempo: 59000 (2.365777015686035)
 ----------
 Teste de caso número 47
-Valor dos menores pesos e seu tempo: 50707 (0.0037946701049804688)
-Valor dos melhores custo-benefícios e seu tempo: 50707 (0.0036957263946533203)
-Valor do algoritmo dinâmico e seu tempo: 51000 (2.315973997116089)
+Valor dos menores pesos e seu tempo: 50707 (0.0037055015563964844)
+Valor dos melhores custo-benefícios e seu tempo: 50707 (0.0037653446197509766)
+Valor do algoritmo dinâmico e seu tempo: 51000 (2.345263719558716)
 ----------
 Teste de caso número 48
-Valor dos menores pesos e seu tempo: 54967 (0.0038042068481445312)
-Valor dos melhores custo-benefícios e seu tempo: 54967 (0.004207611083984375)
-Valor do algoritmo dinâmico e seu tempo: 54996 (2.6360764503479004)
+Valor dos menores pesos e seu tempo: 54967 (0.0036745071411132812)
+Valor dos melhores custo-benefícios e seu tempo: 54967 (0.0038313865661621094)
+Valor do algoritmo dinâmico e seu tempo: 54996 (2.344503879547119)
 ----------
 Teste de caso número 49
-Valor dos menores pesos e seu tempo: 58797 (0.003743410110473633)
-Valor dos melhores custo-benefícios e seu tempo: 58797 (0.0037221908569335938)
-Valor do algoritmo dinâmico e seu tempo: 59000 (2.350886106491089)
+Valor dos menores pesos e seu tempo: 58797 (0.0037856101989746094)
+Valor dos melhores custo-benefícios e seu tempo: 58797 (0.0038366317749023438)
+Valor do algoritmo dinâmico e seu tempo: 59000 (2.371044158935547)
 ----------
 Teste de caso número 50
-Valor dos menores pesos e seu tempo: 55635 (0.003813505172729492)
-Valor dos melhores custo-benefícios e seu tempo: 55635 (0.0040509700775146484)
-Valor do algoritmo dinâmico e seu tempo: 56000 (2.332965135574341)
+Valor dos menores pesos e seu tempo: 55635 (0.0037488937377929688)
+Valor dos melhores custo-benefícios e seu tempo: 55635 (0.003695964813232422)
+Valor do algoritmo dinâmico e seu tempo: 56000 (2.3701059818267822)
 ----------
 Teste de caso número 51
-Valor dos menores pesos e seu tempo: 52811 (0.0044362545013427734)
-Valor dos melhores custo-benefícios e seu tempo: 52811 (0.005547046661376953)
-Valor do algoritmo dinâmico e seu tempo: 53000 (2.3390841484069824)
+Valor dos menores pesos e seu tempo: 52811 (0.0037136077880859375)
+Valor dos melhores custo-benefícios e seu tempo: 52811 (0.0036835670471191406)
+Valor do algoritmo dinâmico e seu tempo: 53000 (2.4352359771728516)
 ----------
 Teste de caso número 52
-Valor dos menores pesos e seu tempo: 51530 (0.004289865493774414)
-Valor dos melhores custo-benefícios e seu tempo: 51530 (0.0037157535552978516)
-Valor do algoritmo dinâmico e seu tempo: 52000 (2.2998201847076416)
+Valor dos menores pesos e seu tempo: 51530 (0.004915714263916016)
+Valor dos melhores custo-benefícios e seu tempo: 51530 (0.00456547737121582)
+Valor do algoritmo dinâmico e seu tempo: 52000 (2.3621227741241455)
 ----------
 Teste de caso número 53
-Valor dos menores pesos e seu tempo: 51705 (0.003803253173828125)
-Valor dos melhores custo-benefícios e seu tempo: 51705 (0.004253864288330078)
-Valor do algoritmo dinâmico e seu tempo: 52000 (2.294745683670044)
+Valor dos menores pesos e seu tempo: 51705 (0.003767728805541992)
+Valor dos melhores custo-benefícios e seu tempo: 51705 (0.0036773681640625)
+Valor do algoritmo dinâmico e seu tempo: 52000 (2.371812343597412)
 ----------
 Teste de caso número 54
-Valor dos menores pesos e seu tempo: 53680 (0.0036590099334716797)
-Valor dos melhores custo-benefícios e seu tempo: 53680 (0.0036764144897460938)
-Valor do algoritmo dinâmico e seu tempo: 54000 (2.2688093185424805)
+Valor dos menores pesos e seu tempo: 53680 (0.003832578659057617)
+Valor dos melhores custo-benefícios e seu tempo: 53680 (0.00377655029296875)
+Valor do algoritmo dinâmico e seu tempo: 54000 (2.3780972957611084)
 ----------
 Teste de caso número 55
-Valor dos menores pesos e seu tempo: 44796 (0.003999948501586914)
-Valor dos melhores custo-benefícios e seu tempo: 44796 (0.003877401351928711)
-Valor do algoritmo dinâmico e seu tempo: 45000 (2.2798423767089844)
+Valor dos menores pesos e seu tempo: 44796 (0.0037240982055664062)
+Valor dos melhores custo-benefícios e seu tempo: 44796 (0.004006624221801758)
+Valor do algoritmo dinâmico e seu tempo: 45000 (2.4130146503448486)
 ----------
 Teste de caso número 56
-Valor dos menores pesos e seu tempo: 53722 (0.0038437843322753906)
-Valor dos melhores custo-benefícios e seu tempo: 53722 (0.0037131309509277344)
-Valor do algoritmo dinâmico e seu tempo: 54000 (2.307316541671753)
+Valor dos menores pesos e seu tempo: 53722 (0.0038576126098632812)
+Valor dos melhores custo-benefícios e seu tempo: 53722 (0.0038187503814697266)
+Valor do algoritmo dinâmico e seu tempo: 54000 (2.3868930339813232)
 ----------
 Teste de caso número 57
-Valor dos menores pesos e seu tempo: 53739 (0.003960371017456055)
-Valor dos melhores custo-benefícios e seu tempo: 53739 (0.004023313522338867)
-Valor do algoritmo dinâmico e seu tempo: 54000 (2.3121798038482666)
+Valor dos menores pesos e seu tempo: 53739 (0.003742218017578125)
+Valor dos melhores custo-benefícios e seu tempo: 53739 (0.0038537979125976562)
+Valor do algoritmo dinâmico e seu tempo: 54000 (2.412956714630127)
 ----------
 Teste de caso número 58
-Valor dos menores pesos e seu tempo: 52576 (0.0039823055267333984)
-Valor dos melhores custo-benefícios e seu tempo: 52576 (0.0039021968841552734)
-Valor do algoritmo dinâmico e seu tempo: 53000 (2.274958610534668)
+Valor dos menores pesos e seu tempo: 52576 (0.003955841064453125)
+Valor dos melhores custo-benefícios e seu tempo: 52576 (0.003984212875366211)
+Valor do algoritmo dinâmico e seu tempo: 53000 (2.3276069164276123)
 ----------
 Teste de caso número 59
-Valor dos menores pesos e seu tempo: 50751 (0.004073381423950195)
-Valor dos melhores custo-benefícios e seu tempo: 50751 (0.004084587097167969)
-Valor do algoritmo dinâmico e seu tempo: 51000 (2.2960269451141357)
+Valor dos menores pesos e seu tempo: 50751 (0.00413203239440918)
+Valor dos melhores custo-benefícios e seu tempo: 50751 (0.004234790802001953)
+Valor do algoritmo dinâmico e seu tempo: 51000 (2.3520500659942627)
 ----------
 Teste de caso número 60
-Valor dos menores pesos e seu tempo: 53830 (0.0038018226623535156)
-Valor dos melhores custo-benefícios e seu tempo: 53830 (0.003757953643798828)
-Valor do algoritmo dinâmico e seu tempo: 54000 (2.329751491546631)
+Valor dos menores pesos e seu tempo: 53830 (0.003718852996826172)
+Valor dos melhores custo-benefícios e seu tempo: 53830 (0.0036721229553222656)
+Valor do algoritmo dinâmico e seu tempo: 54000 (2.347543954849243)
 ----------
 Teste de caso número 61
-Valor dos menores pesos e seu tempo: 50883 (0.004111528396606445)
-Valor dos melhores custo-benefícios e seu tempo: 50883 (0.003997802734375)
-Valor do algoritmo dinâmico e seu tempo: 51000 (2.3357455730438232)
+Valor dos menores pesos e seu tempo: 50883 (0.0038270950317382812)
+Valor dos melhores custo-benefícios e seu tempo: 50883 (0.0038187503814697266)
+Valor do algoritmo dinâmico e seu tempo: 51000 (2.331240177154541)
 ----------
 Teste de caso número 62
-Valor dos menores pesos e seu tempo: 49599 (0.005273103713989258)
-Valor dos melhores custo-benefícios e seu tempo: 49599 (0.004407405853271484)
-Valor do algoritmo dinâmico e seu tempo: 50000 (2.3136825561523438)
+Valor dos menores pesos e seu tempo: 49599 (0.0036880970001220703)
+Valor dos melhores custo-benefícios e seu tempo: 49599 (0.004008054733276367)
+Valor do algoritmo dinâmico e seu tempo: 50000 (2.338979959487915)
 ----------
 Teste de caso número 63
-Valor dos menores pesos e seu tempo: 58802 (0.0038385391235351562)
-Valor dos melhores custo-benefícios e seu tempo: 58802 (0.003924131393432617)
-Valor do algoritmo dinâmico e seu tempo: 59000 (2.3476462364196777)
+Valor dos menores pesos e seu tempo: 58802 (0.0037069320678710938)
+Valor dos melhores custo-benefícios e seu tempo: 58802 (0.0036585330963134766)
+Valor do algoritmo dinâmico e seu tempo: 59000 (2.3646340370178223)
 ----------
 Teste de caso número 64
-Valor dos menores pesos e seu tempo: 49786 (0.0037348270416259766)
-Valor dos melhores custo-benefícios e seu tempo: 49786 (0.003911495208740234)
-Valor do algoritmo dinâmico e seu tempo: 50000 (2.3069920539855957)
+Valor dos menores pesos e seu tempo: 49786 (0.0036957263946533203)
+Valor dos melhores custo-benefícios e seu tempo: 49786 (0.003753662109375)
+Valor do algoritmo dinâmico e seu tempo: 50000 (2.3194937705993652)
 ----------
 Teste de caso número 65
-Valor dos menores pesos e seu tempo: 60894 (0.003747224807739258)
-Valor dos melhores custo-benefícios e seu tempo: 60894 (0.0038309097290039062)
-Valor do algoritmo dinâmico e seu tempo: 61000 (2.390658140182495)
+Valor dos menores pesos e seu tempo: 60894 (0.0037376880645751953)
+Valor dos melhores custo-benefícios e seu tempo: 60894 (0.0038204193115234375)
+Valor do algoritmo dinâmico e seu tempo: 61000 (2.393246650695801)
 ----------
 Teste de caso número 66
-Valor dos menores pesos e seu tempo: 59813 (0.003678560256958008)
-Valor dos melhores custo-benefícios e seu tempo: 59813 (0.0037946701049804688)
-Valor do algoritmo dinâmico e seu tempo: 60000 (2.2973196506500244)
+Valor dos menores pesos e seu tempo: 59813 (0.0037200450897216797)
+Valor dos melhores custo-benefícios e seu tempo: 59813 (0.003847360610961914)
+Valor do algoritmo dinâmico e seu tempo: 60000 (2.35813570022583)
 ----------
 Teste de caso número 67
-Valor dos menores pesos e seu tempo: 56647 (0.003751993179321289)
-Valor dos melhores custo-benefícios e seu tempo: 56647 (0.0037217140197753906)
-Valor do algoritmo dinâmico e seu tempo: 57000 (2.343365430831909)
+Valor dos menores pesos e seu tempo: 56647 (0.004044055938720703)
+Valor dos melhores custo-benefícios e seu tempo: 56647 (0.0039975643157958984)
+Valor do algoritmo dinâmico e seu tempo: 57000 (2.410012722015381)
 ----------
 Teste de caso número 68
-Valor dos menores pesos e seu tempo: 53884 (0.0037841796875)
-Valor dos melhores custo-benefícios e seu tempo: 53884 (0.003803253173828125)
-Valor do algoritmo dinâmico e seu tempo: 54000 (2.3163528442382812)
+Valor dos menores pesos e seu tempo: 53884 (0.0038864612579345703)
+Valor dos melhores custo-benefícios e seu tempo: 53884 (0.0038077831268310547)
+Valor do algoritmo dinâmico e seu tempo: 54000 (2.3365371227264404)
 ----------
 Teste de caso número 69
-Valor dos menores pesos e seu tempo: 55992 (0.003715991973876953)
-Valor dos melhores custo-benefícios e seu tempo: 55992 (0.004040718078613281)
-Valor do algoritmo dinâmico e seu tempo: 55993 (2.3334336280822754)
+Valor dos menores pesos e seu tempo: 55992 (0.0036852359771728516)
+Valor dos melhores custo-benefícios e seu tempo: 55992 (0.0037338733673095703)
+Valor do algoritmo dinâmico e seu tempo: 55993 (2.412407636642456)
 ----------
 Teste de caso número 70
-Valor dos menores pesos e seu tempo: 55940 (0.004201650619506836)
-Valor dos melhores custo-benefícios e seu tempo: 55940 (0.004088640213012695)
-Valor do algoritmo dinâmico e seu tempo: 56000 (2.533402919769287)
+Valor dos menores pesos e seu tempo: 55940 (0.00532078742980957)
+Valor dos melhores custo-benefícios e seu tempo: 55940 (0.005057573318481445)
+Valor do algoritmo dinâmico e seu tempo: 56000 (2.363037347793579)
 ----------
 Teste de caso número 71
-Valor dos menores pesos e seu tempo: 49803 (0.003789186477661133)
-Valor dos melhores custo-benefícios e seu tempo: 49803 (0.0037546157836914062)
-Valor do algoritmo dinâmico e seu tempo: 50000 (2.2958905696868896)
+Valor dos menores pesos e seu tempo: 49803 (0.004980564117431641)
+Valor dos melhores custo-benefícios e seu tempo: 49803 (0.006239414215087891)
+Valor do algoritmo dinâmico e seu tempo: 50000 (2.3304200172424316)
 ----------
 Teste de caso número 72
-Valor dos menores pesos e seu tempo: 48816 (0.0036635398864746094)
-Valor dos melhores custo-benefícios e seu tempo: 48816 (0.0040874481201171875)
-Valor do algoritmo dinâmico e seu tempo: 49000 (2.335322141647339)
+Valor dos menores pesos e seu tempo: 48816 (0.0036897659301757812)
+Valor dos melhores custo-benefícios e seu tempo: 48816 (0.003676891326904297)
+Valor do algoritmo dinâmico e seu tempo: 49000 (2.3560054302215576)
 ----------
 Teste de caso número 73
-Valor dos menores pesos e seu tempo: 54489 (0.0043413639068603516)
-Valor dos melhores custo-benefícios e seu tempo: 54489 (0.0038518905639648438)
-Valor do algoritmo dinâmico e seu tempo: 55000 (2.4366140365600586)
+Valor dos menores pesos e seu tempo: 54489 (0.0038611888885498047)
+Valor dos melhores custo-benefícios e seu tempo: 54489 (0.003802061080932617)
+Valor do algoritmo dinâmico e seu tempo: 55000 (2.376296281814575)
 ----------
 Teste de caso número 74
-Valor dos menores pesos e seu tempo: 56912 (0.0043926239013671875)
-Valor dos melhores custo-benefícios e seu tempo: 56912 (0.0041925907135009766)
-Valor do algoritmo dinâmico e seu tempo: 57000 (2.452394962310791)
+Valor dos menores pesos e seu tempo: 56912 (0.003729104995727539)
+Valor dos melhores custo-benefícios e seu tempo: 56912 (0.003814220428466797)
+Valor do algoritmo dinâmico e seu tempo: 57000 (2.3862311840057373)
 ----------
 Teste de caso número 75
-Valor dos menores pesos e seu tempo: 54780 (0.003820657730102539)
-Valor dos melhores custo-benefícios e seu tempo: 54780 (0.003820180892944336)
-Valor do algoritmo dinâmico e seu tempo: 55000 (2.421039581298828)
+Valor dos menores pesos e seu tempo: 54780 (0.003918886184692383)
+Valor dos melhores custo-benefícios e seu tempo: 54780 (0.003796815872192383)
+Valor do algoritmo dinâmico e seu tempo: 55000 (2.3673722743988037)
 ----------
 Teste de caso número 76
-Valor dos menores pesos e seu tempo: 53802 (0.00412750244140625)
-Valor dos melhores custo-benefícios e seu tempo: 53802 (0.004197835922241211)
-Valor do algoritmo dinâmico e seu tempo: 54000 (2.3696250915527344)
+Valor dos menores pesos e seu tempo: 53802 (0.0037615299224853516)
+Valor dos melhores custo-benefícios e seu tempo: 53802 (0.0037200450897216797)
+Valor do algoritmo dinâmico e seu tempo: 54000 (2.3289742469787598)
 ----------
 Teste de caso número 77
-Valor dos menores pesos e seu tempo: 50981 (0.004349946975708008)
-Valor dos melhores custo-benefícios e seu tempo: 50981 (0.003966569900512695)
-Valor do algoritmo dinâmico e seu tempo: 50981 (2.484966993331909)
+Valor dos menores pesos e seu tempo: 50981 (0.0038025379180908203)
+Valor dos melhores custo-benefícios e seu tempo: 50981 (0.003885030746459961)
+Valor do algoritmo dinâmico e seu tempo: 50981 (2.3519110679626465)
 ----------
 Teste de caso número 78
-Valor dos menores pesos e seu tempo: 56931 (0.005966663360595703)
-Valor dos melhores custo-benefícios e seu tempo: 56931 (0.006058692932128906)
-Valor do algoritmo dinâmico e seu tempo: 57000 (2.571398973464966)
+Valor dos menores pesos e seu tempo: 56931 (0.0037267208099365234)
+Valor dos melhores custo-benefícios e seu tempo: 56931 (0.004539012908935547)
+Valor do algoritmo dinâmico e seu tempo: 57000 (2.3650333881378174)
 ----------
 Teste de caso número 79
-Valor dos menores pesos e seu tempo: 49787 (0.003988981246948242)
-Valor dos melhores custo-benefícios e seu tempo: 49787 (0.003995180130004883)
-Valor do algoritmo dinâmico e seu tempo: 50000 (2.368530035018921)
+Valor dos menores pesos e seu tempo: 49787 (0.0038313865661621094)
+Valor dos melhores custo-benefícios e seu tempo: 49787 (0.0038645267486572266)
+Valor do algoritmo dinâmico e seu tempo: 50000 (2.302694082260132)
 ----------
 Teste de caso número 80
-Valor dos menores pesos e seu tempo: 57987 (0.003973484039306641)
-Valor dos melhores custo-benefícios e seu tempo: 57987 (0.004063606262207031)
-Valor do algoritmo dinâmico e seu tempo: 57996 (2.464738368988037)
+Valor dos menores pesos e seu tempo: 57987 (0.003736257553100586)
+Valor dos melhores custo-benefícios e seu tempo: 57987 (0.003669261932373047)
+Valor do algoritmo dinâmico e seu tempo: 57996 (2.3657913208007812)
 ----------
 Teste de caso número 81
-Valor dos menores pesos e seu tempo: 53735 (0.0037794113159179688)
-Valor dos melhores custo-benefícios e seu tempo: 53735 (0.0037393569946289062)
-Valor do algoritmo dinâmico e seu tempo: 54000 (2.4486894607543945)
+Valor dos menores pesos e seu tempo: 53735 (0.0038514137268066406)
+Valor dos melhores custo-benefícios e seu tempo: 53735 (0.0038499832153320312)
+Valor do algoritmo dinâmico e seu tempo: 54000 (2.3792636394500732)
 ----------
 Teste de caso número 82
-Valor dos menores pesos e seu tempo: 49539 (0.003863096237182617)
-Valor dos melhores custo-benefícios e seu tempo: 49539 (0.005189418792724609)
-Valor do algoritmo dinâmico e seu tempo: 50000 (2.4414031505584717)
+Valor dos menores pesos e seu tempo: 49539 (0.0037851333618164062)
+Valor dos melhores custo-benefícios e seu tempo: 49539 (0.004796266555786133)
+Valor do algoritmo dinâmico e seu tempo: 50000 (2.355670213699341)
 ----------
 Teste de caso número 83
-Valor dos menores pesos e seu tempo: 55608 (0.003708362579345703)
-Valor dos melhores custo-benefícios e seu tempo: 55608 (0.0039060115814208984)
-Valor do algoritmo dinâmico e seu tempo: 56000 (2.3909873962402344)
+Valor dos menores pesos e seu tempo: 55608 (0.0037965774536132812)
+Valor dos melhores custo-benefícios e seu tempo: 55608 (0.00396728515625)
+Valor do algoritmo dinâmico e seu tempo: 56000 (2.351461172103882)
 ----------
 Teste de caso número 84
-Valor dos menores pesos e seu tempo: 45597 (0.0037355422973632812)
-Valor dos melhores custo-benefícios e seu tempo: 45597 (0.004465341567993164)
-Valor do algoritmo dinâmico e seu tempo: 46000 (2.4415323734283447)
+Valor dos menores pesos e seu tempo: 45597 (0.003670215606689453)
+Valor dos melhores custo-benefícios e seu tempo: 45597 (0.003952503204345703)
+Valor do algoritmo dinâmico e seu tempo: 46000 (2.3829457759857178)
 ----------
 Teste de caso número 85
-Valor dos menores pesos e seu tempo: 53560 (0.003796815872192383)
-Valor dos melhores custo-benefícios e seu tempo: 53560 (0.004040718078613281)
-Valor do algoritmo dinâmico e seu tempo: 54000 (2.4325616359710693)
+Valor dos menores pesos e seu tempo: 53560 (0.0038309097290039062)
+Valor dos melhores custo-benefícios e seu tempo: 53560 (0.00400853157043457)
+Valor do algoritmo dinâmico e seu tempo: 54000 (2.402820110321045)
 ----------
 Teste de caso número 86
-Valor dos menores pesos e seu tempo: 47840 (0.004222869873046875)
-Valor dos melhores custo-benefícios e seu tempo: 47840 (0.004127979278564453)
-Valor do algoritmo dinâmico e seu tempo: 48000 (2.4664947986602783)
+Valor dos menores pesos e seu tempo: 47840 (0.0037283897399902344)
+Valor dos melhores custo-benefícios e seu tempo: 47840 (0.0038025379180908203)
+Valor do algoritmo dinâmico e seu tempo: 48000 (2.3504183292388916)
 ----------
 Teste de caso número 87
-Valor dos menores pesos e seu tempo: 60956 (0.004958629608154297)
-Valor dos melhores custo-benefícios e seu tempo: 60956 (0.004177093505859375)
-Valor do algoritmo dinâmico e seu tempo: 60994 (2.425812005996704)
+Valor dos menores pesos e seu tempo: 60956 (0.0037581920623779297)
+Valor dos melhores custo-benefícios e seu tempo: 60956 (0.0039043426513671875)
+Valor do algoritmo dinâmico e seu tempo: 60994 (2.3368685245513916)
 ----------
 Teste de caso número 88
-Valor dos menores pesos e seu tempo: 45836 (0.0037729740142822266)
-Valor dos melhores custo-benefícios e seu tempo: 45836 (0.003771066665649414)
-Valor do algoritmo dinâmico e seu tempo: 46000 (2.417837381362915)
+Valor dos menores pesos e seu tempo: 45836 (0.003648996353149414)
+Valor dos melhores custo-benefícios e seu tempo: 45836 (0.0036585330963134766)
+Valor do algoritmo dinâmico e seu tempo: 46000 (2.359119176864624)
 ----------
 Teste de caso número 89
-Valor dos menores pesos e seu tempo: 50602 (0.003912448883056641)
-Valor dos melhores custo-benefícios e seu tempo: 50602 (0.003903627395629883)
-Valor do algoritmo dinâmico e seu tempo: 51000 (2.3964715003967285)
+Valor dos menores pesos e seu tempo: 50602 (0.003933906555175781)
+Valor dos melhores custo-benefícios e seu tempo: 50602 (0.0037965774536132812)
+Valor do algoritmo dinâmico e seu tempo: 51000 (2.3297674655914307)
 ----------
 Teste de caso número 90
-Valor dos menores pesos e seu tempo: 55932 (0.0037126541137695312)
-Valor dos melhores custo-benefícios e seu tempo: 55932 (0.0037050247192382812)
-Valor do algoritmo dinâmico e seu tempo: 55999 (2.4107558727264404)
+Valor dos menores pesos e seu tempo: 55932 (0.0037271976470947266)
+Valor dos melhores custo-benefícios e seu tempo: 55932 (0.0036449432373046875)
+Valor do algoritmo dinâmico e seu tempo: 55999 (2.351483106613159)
 ----------
 Teste de caso número 91
-Valor dos menores pesos e seu tempo: 49942 (0.003980159759521484)
-Valor dos melhores custo-benefícios e seu tempo: 49942 (0.005304098129272461)
-Valor do algoritmo dinâmico e seu tempo: 50000 (2.424112558364868)
+Valor dos menores pesos e seu tempo: 49942 (0.003763914108276367)
+Valor dos melhores custo-benefícios e seu tempo: 49942 (0.003771543502807617)
+Valor do algoritmo dinâmico e seu tempo: 50000 (2.3407416343688965)
 ----------
 Teste de caso número 92
-Valor dos menores pesos e seu tempo: 48972 (0.003887653350830078)
-Valor dos melhores custo-benefícios e seu tempo: 48972 (0.0040318965911865234)
-Valor do algoritmo dinâmico e seu tempo: 48998 (2.422372817993164)
+Valor dos menores pesos e seu tempo: 48972 (0.003977537155151367)
+Valor dos melhores custo-benefícios e seu tempo: 48972 (0.004073143005371094)
+Valor do algoritmo dinâmico e seu tempo: 48998 (2.3468780517578125)
 ----------
 Teste de caso número 93
-Valor dos menores pesos e seu tempo: 56940 (0.004889011383056641)
-Valor dos melhores custo-benefícios e seu tempo: 56940 (0.004332065582275391)
-Valor do algoritmo dinâmico e seu tempo: 57000 (2.375842332839966)
+Valor dos menores pesos e seu tempo: 56940 (0.0037767887115478516)
+Valor dos melhores custo-benefícios e seu tempo: 56940 (0.0042231082916259766)
+Valor do algoritmo dinâmico e seu tempo: 57000 (2.340873956680298)
 ----------
 Teste de caso número 94
-Valor dos menores pesos e seu tempo: 56662 (0.0042629241943359375)
-Valor dos melhores custo-benefícios e seu tempo: 56662 (0.004187345504760742)
-Valor do algoritmo dinâmico e seu tempo: 57000 (2.4184176921844482)
+Valor dos menores pesos e seu tempo: 56662 (0.003930807113647461)
+Valor dos melhores custo-benefícios e seu tempo: 56662 (0.003773212432861328)
+Valor do algoritmo dinâmico e seu tempo: 57000 (2.328526735305786)
 ----------
 Teste de caso número 95
-Valor dos menores pesos e seu tempo: 57975 (0.0037348270416259766)
-Valor dos melhores custo-benefícios e seu tempo: 57975 (0.0038323402404785156)
-Valor do algoritmo dinâmico e seu tempo: 57975 (2.445077896118164)
+Valor dos menores pesos e seu tempo: 57975 (0.0037076473236083984)
+Valor dos melhores custo-benefícios e seu tempo: 57975 (0.0036308765411376953)
+Valor do algoritmo dinâmico e seu tempo: 57975 (2.3799991607666016)
 ----------
 Teste de caso número 96
-Valor dos menores pesos e seu tempo: 48895 (0.003969669342041016)
-Valor dos melhores custo-benefícios e seu tempo: 48895 (0.0037925243377685547)
-Valor do algoritmo dinâmico e seu tempo: 49000 (2.374661445617676)
+Valor dos menores pesos e seu tempo: 48895 (0.0036857128143310547)
+Valor dos melhores custo-benefícios e seu tempo: 48895 (0.003698110580444336)
+Valor do algoritmo dinâmico e seu tempo: 49000 (2.3093152046203613)
 ----------
 Teste de caso número 97
-Valor dos menores pesos e seu tempo: 44621 (0.0037419795989990234)
-Valor dos melhores custo-benefícios e seu tempo: 44621 (0.004310131072998047)
-Valor do algoritmo dinâmico e seu tempo: 45000 (2.450542449951172)
+Valor dos menores pesos e seu tempo: 44621 (0.00372314453125)
+Valor dos melhores custo-benefícios e seu tempo: 44621 (0.0036139488220214844)
+Valor do algoritmo dinâmico e seu tempo: 45000 (2.332397937774658)
 ----------
 Teste de caso número 98
-Valor dos menores pesos e seu tempo: 61776 (0.0038132667541503906)
-Valor dos melhores custo-benefícios e seu tempo: 61776 (0.004050731658935547)
-Valor do algoritmo dinâmico e seu tempo: 62000 (2.3944966793060303)
+Valor dos menores pesos e seu tempo: 61776 (0.004154205322265625)
+Valor dos melhores custo-benefícios e seu tempo: 61776 (0.003901243209838867)
+Valor do algoritmo dinâmico e seu tempo: 62000 (2.372163772583008)
 ----------
 Teste de caso número 99
-Valor dos menores pesos e seu tempo: 52827 (0.0037260055541992188)
-Valor dos melhores custo-benefícios e seu tempo: 52827 (0.003748178482055664)
-Valor do algoritmo dinâmico e seu tempo: 53000 (2.384531259536743)
+Valor dos menores pesos e seu tempo: 52827 (0.0037527084350585938)
+Valor dos melhores custo-benefícios e seu tempo: 52827 (0.0037779808044433594)
+Valor do algoritmo dinâmico e seu tempo: 53000 (2.324476480484009)
 ----------
 Teste de caso número 100
-Valor dos menores pesos e seu tempo: 55734 (0.00390625)
-Valor dos melhores custo-benefícios e seu tempo: 55734 (0.004450321197509766)
-Valor do algoritmo dinâmico e seu tempo: 56000 (2.4276106357574463)
+Valor dos menores pesos e seu tempo: 55734 (0.0037300586700439453)
+Valor dos melhores custo-benefícios e seu tempo: 55734 (0.003872394561767578)
+Valor do algoritmo dinâmico e seu tempo: 56000 (2.3630807399749756)
 ----------
