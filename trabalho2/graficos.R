@@ -14,12 +14,12 @@ graph1_data = c(time_light,time_cost,time_optimized)
 graph1_dataset = data.frame(algoritmo = as.factor(graph1_labels), timestamps = graph1_data)
 
 #Graph2-6
-graphs26_labels = c(rep("Correlação Baixa",100),rep("Correlação Intermediária",100),rep("Correlação Alta",100))
-graphs26_ratioLight = rep(0,300)
-graphs26_ratioCost = rep(0,300)
-graphs26_dataset = data.frame(value_optimized,value_light,value_cost, tipoArquivo = as.factor(graphs26_labels), ratioLight = graphs26_ratioLight, ratioCost = graphs26_ratioCost)
-graphs26_dataset$ratioLight <- (graphs26_dataset$value_light / graphs26_dataset$value_optimized)
-graphs26_dataset$ratioCost <- (graphs26_dataset$value_cost / graphs26_dataset$value_optimized)
+graphs27_labels = c(rep("Correlação Baixa",100),rep("Correlação Intermediária",100),rep("Correlação Alta",100))
+graphs27_ratioLight = rep(0,300)
+graphs27_ratioCost = rep(0,300)
+graphs27_dataset = data.frame(value_optimized,value_light,value_cost, tipoArquivo = as.factor(graphs27_labels), ratioLight = graphs27_ratioLight, ratioCost = graphs27_ratioCost)
+graphs27_dataset$ratioLight <- (graphs27_dataset$value_light / graphs27_dataset$value_optimized)
+graphs27_dataset$ratioCost <- (graphs27_dataset$value_cost / graphs27_dataset$value_optimized)
 
 #Ploting
 #Graph1
@@ -35,8 +35,12 @@ ggplot(data=graph1_dataset, aes(x=algoritmo,y=timestamps, color=algoritmo)) + ge
         legend.title = element_text(size=15),
         legend.text = element_text(size=10),
         plot.title = element_text(color="DarkBlue",size=20,hjust = 0.5))
-#graph2-6
-test = plot_ly(x = graphs26_dataset[1:100,6], type = "histogram")
-
-layout(test,
-  title = "Razão Algoritmo Custo Beneficio para Correlação Baixa", xaxis = list(title="Razão"), yaxis = list(title="Quantidade"))
+#graph2-7
+fig = plot_ly(alpha=0.6)
+# fig = fig %>% add_histogram(x = graphs27_dataset[1:100,5],name="Guloso Leve Correlação Baixa")
+# fig = fig %>% add_histogram(x = graphs27_dataset[1:100,6],name="Guloso Custo Correlação Baixa")
+# fig = fig %>% add_histogram(x = graphs27_dataset[101:200,5],name="Guloso Leve")
+# fig = fig %>% add_histogram(x = graphs27_dataset[101:200,6],name="Guloso Custo")
+fig = fig %>% add_histogram(x = graphs27_dataset[201:300,5],name="Guloso Leve")
+fig = fig %>% add_histogram(x = graphs27_dataset[201:300,6],name="Guloso Custo")
+fig %>% layout(barmode = "overlay",title = "Razão Algoritmos para Correlação Alta", xaxis = list(title="Razão",range=c(0.4,1)), yaxis = list(title="Quantidade"))
